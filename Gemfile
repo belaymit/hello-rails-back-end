@@ -67,3 +67,6 @@ end
 
 # rubocop
 gem 'rubocop', '>= 1.0', '< 2.0'
+
+# cors for cross-origin
+gem 'rack-cors'
