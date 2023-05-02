@@ -187,7 +187,7 @@ To install Rails, use the ``gem install`` command provided by RubyGems:
 ### Setup
 
 Clone this repository to your desired folder:
-
+Client Repository: https://github.com/belaymit/hello-react-front-end 
 
 ```sh
   cd my-folder
